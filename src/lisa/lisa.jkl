@@ -1,0 +1,15 @@
+version = 0.1
+firstname,gender = lisa
+father,mother = jkl
+community = 0
+
+lisa(my_community)
+{
+	community = my_community
+}
+
+eat(food),sleep(duration),die(),say(words)
+
+be_killed()
+
+//END
